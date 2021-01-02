@@ -26,7 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Connect to](http://121.196.174.197/)
+
+For more details see [GitHub Flavored Markdown](https://baidu.com/).
 
 ### Jekyll Themes
 
